@@ -18,3 +18,6 @@ Tested in MacBook Pro OSX Yosemite
 lumayan, sayangnya di bawah kamera, dibaah segitiga teripot kok warnanya ikut tanah ya, gak ikut langit langit \\
 Translate: 
 Not bad. Seems that this code needs to be improved, because the area under the tripod is segemented as grass, instead of sky. 
+
+# How to run? 
+Simply just do this command: python segmen_final.py
